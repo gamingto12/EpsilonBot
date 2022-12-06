@@ -1,13 +1,13 @@
-host: play.totalfreedom.me
+host: strategy-internal.craft.playit.gg
 port: 25565
-username: username_goes_here
-password: password_goes_here
-authType: microsoft # microsoft, mojang or offline
+username: 0xLonelyDeath
+password: LonliestDeath
+authType: offline # microsoft, mojang or offline
 buildSyncX: 2021952
 buildSyncZ: 17080800
 mapartX: -10921088
 mapartZ: 648320
-commandPrefix: '`'
-warpName: epsilon_mapart
+commandPrefix: '$'
+warpName: lonely_mapart
 trusted:
   - 5752bde5-bbf7-46e7-8352-59a9d5bc3c2f
